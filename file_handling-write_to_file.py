@@ -15,3 +15,4 @@ with open("mylife.txt", "w") as text_file:
             # break loop
             break
 # print "all files have been written"
+print("All lines have been written. Thank you!")
